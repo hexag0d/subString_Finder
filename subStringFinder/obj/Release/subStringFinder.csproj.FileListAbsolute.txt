@@ -1,0 +1,15 @@
+C:\rep0s\subStringFinder\subStringFinder\bin\Release\subStringFinder.exe.config
+C:\rep0s\subStringFinder\subStringFinder\bin\Release\subStringFinder.exe
+C:\rep0s\subStringFinder\subStringFinder\bin\Release\subStringFinder.pdb
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.csprojAssemblyReference.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\MainWindow.g.cs
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\App.g.cs
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder_MarkupCompile.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder_MarkupCompile.lref
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\MainWindow.baml
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.g.resources
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.Properties.Resources.resources
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.csproj.GenerateResource.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.csproj.CoreCompileInputs.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.exe
+C:\rep0s\subStringFinder\subStringFinder\obj\Release\subStringFinder.pdb

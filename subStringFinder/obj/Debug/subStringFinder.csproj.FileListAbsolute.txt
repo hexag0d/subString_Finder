@@ -1,0 +1,14 @@
+C:\rep0s\subStringFinder\subStringFinder\bin\Debug\subStringFinder.exe.config
+C:\rep0s\subStringFinder\subStringFinder\bin\Debug\subStringFinder.exe
+C:\rep0s\subStringFinder\subStringFinder\bin\Debug\subStringFinder.pdb
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\MainWindow.g.cs
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\App.g.cs
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder_MarkupCompile.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder_MarkupCompile.lref
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\MainWindow.baml
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.g.resources
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.Properties.Resources.resources
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.csproj.GenerateResource.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.csproj.CoreCompileInputs.cache
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.exe
+C:\rep0s\subStringFinder\subStringFinder\obj\Debug\subStringFinder.pdb
